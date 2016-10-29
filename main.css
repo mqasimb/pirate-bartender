@@ -1,0 +1,6 @@
+.preferences {
+    visibility: hidden;
+}
+.order-drink, .order-burger {
+    visibility: hidden;
+}
