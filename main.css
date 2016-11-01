@@ -1,0 +1,10 @@
+.preferences {
+    visibility: hidden;
+}
+.order-drink, .order-burger {
+    visibility: hidden;
+}
+
+h1 {
+	text-align: center;
+}
